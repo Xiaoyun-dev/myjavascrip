@@ -1,0 +1,2 @@
+# myjavascrip
+javascript practice
